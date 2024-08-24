@@ -44,7 +44,7 @@ ul {
   
   /* Change the link color on hover */
   li a:hover {
-    background-color: #d82828;
+    background-color: #127cbe;
     color: white;
   }
 
@@ -100,7 +100,7 @@ ul {
 
 /* On hover, add a black background color with a little bit see-through */
 .prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.8);
+  background-color: rgba(0,0,0,0.5);
 }
 
 /* Caption text */
